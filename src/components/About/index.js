@@ -29,23 +29,17 @@ const About = () => {
                     />
                 </h1>
                 <p> 
-                    I'm a very ambitious back-end developer looking for a role in the
-                    established IT company with the opportunity to work with the latest 
+                    I'm a very ambitious backend software engineer looking for a role in the
+                    established tech company with the opportunity to work with the latest 
                     technolgies on challenging and diverse projects.
                 </p>
                 <p>
-                I love software engineering because it allows me to use my problem-solving skills
-                 to come up with creative solutions to complex challenges. It's like a puzzle that
-                 I get to solve using my technical knowledge and expertise. Additionally, I am passionate 
-                 about technology and innovation, and software engineering allows me to stay up-to-date with 
-                 the latest developments in the field and contribute to the advancement of technology. Overall,
-                 software engineering is a fulfilling and rewarding career that allows me to use my skills and 
-                 interests to make a positive impact on the world.
-                </p>
-                <p>
-                    If I need to define myself in one sentence that would be a family person,
-                    Father of a beautiful daughter, a sports fanatic, photography enthusiast,
-                    and a tech-obsessed!!!
+                I love software engineering because it allows me to constantly learn and challenge myself.
+                 I enjoy being able to use my creativity and problem-solving skills to build innovative solutions
+                  that can make a positive impact on people's lives. The field is constantly evolving and there
+                   is always something new to learn, which keeps things interesting and exciting. Additionally, 
+                   I find it rewarding to see the results of my hard work come to life in the form of a functional 
+                   and useful piece of software.
                 </p>
 
             </div>

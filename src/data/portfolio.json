@@ -2,33 +2,27 @@
     "portfolio": [
         {
             "cover": "/portfolio/1/one.png",
-            "title": "GGWP",
-            "description": "React, JSX, Tailwind, Jest",
-            "url": "http://google.com"
+            "title": "Unthether",
+            "description": "Website allowing users to round up their purchases to the nearest dollar, using the difference to make micropayments on specified loans.",
+            "url": "https://github.com/coreygallagher1/Unthether"
         },
         {
             "cover": "/portfolio/1/one.png",
-            "title": "GGWP",
-            "description": "React, JSX, Tailwind, Jest",
-            "url": "http://google.com"
+            "title": "Groupify",
+            "description": "An IOS app that allows teachers to manipulate class and student data to accelerate the pace of attendance, classroom activities.",
+            "url": "https://github.com/coreygallagher1/Groupify"
         },
         {
             "cover": "/portfolio/1/one.png",
-            "title": "GGWP",
-            "description": "React, JSX, Tailwind, Jest",
-            "url": "http://google.com"
+            "title": "Stock Market Predictor",
+            "description": "A web app that uses machine learning to predict the stock market.",
+            "url": "https://github.com/coreygallagher1/Stock-Market-Predictor"
         },
         {
             "cover": "/portfolio/1/one.png",
-            "title": "GGWP",
-            "description": "React, JSX, Tailwind, Jest",
-            "url": "http://google.com"
-        },
-        {
-            "cover": "/portfolio/1/one.png",
-            "title": "GGWP",
-            "description": "React, JSX, Tailwind, Jest",
-            "url": "http://google.com"
+            "title": "Bit Array Scheduler",
+            "description": "A scheduler that uses a bit array to schedule processes.",
+            "url": "https://github.com/coreygallagher1/Bitarray-Scheduler"
         }
     ]
 }
