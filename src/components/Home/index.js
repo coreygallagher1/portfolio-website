@@ -10,7 +10,7 @@ const Home = () => {
 
     const [letterClass, setLetterClass] = useState('text-animate')
 
-  const nameArray = ['o', 'r', 'e', 'y']
+  const nameArray = ['o', 'r', 'e', 'y', ',']
   const jobArray = [
     's',
     'o',
@@ -31,10 +31,11 @@ const Home = () => {
     'r',
   ]
 
+
   useEffect(() => {
     setTimeout(() => {
       return setLetterClass('text-animate-hover')
-    }, 4000)
+    }, 3000)
   }, [] )
 
 
@@ -59,9 +60,8 @@ const Home = () => {
             strArray={jobArray}
             idx={15} />
             </h1>
-            <h2> Backend Developer </h2>
+            <h2> Marquette University | Milwaukee, Wisconsin </h2>
             <Link to="/contact" className="flat-button"> CONTACT ME </Link>
-
         </div>
         <Logo />
     </div>
