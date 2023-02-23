@@ -1,28 +1,29 @@
 {
     "portfolio": [
         {
-            "cover": "/portfolio/1/one.png",
+            "cover": "/portfolio/1/plaid.webp",
             "title": "Unthether",
             "description": "Website allowing users to round up their purchases to the nearest dollar, using the difference to make micropayments on specified loans.",
-            "url": "https://github.com/coreygallagher1/Unthether"
+            "url": "https://github.com/coreygallagher1/untether"
         },
         {
-            "cover": "/portfolio/1/one.png",
+            "cover": "/portfolio/1/MWTH.png",
+            "title": "Milwaukee Tech Hub",
+            "description": "Custom Website for Milky Way Tech Hub for local entrepreuers in Milwaukee, WIMWT.",
+            "url": "https://github.com/kayleighcrosby/EcosystemApp"
+        },
+        {
+            "cover": "/portfolio/1/groupify.png",
             "title": "Groupify",
             "description": "An IOS app that allows teachers to manipulate class and student data to accelerate the pace of attendance, classroom activities.",
             "url": "https://github.com/coreygallagher1/Groupify"
         },
         {
-            "cover": "/portfolio/1/one.png",
+            "cover": "/portfolio/1/stockPredictor.png",
             "title": "Stock Market Predictor",
             "description": "A web app that uses machine learning to predict the stock market.",
             "url": "https://github.com/coreygallagher1/Stock-Market-Predictor"
-        },
-        {
-            "cover": "/portfolio/1/one.png",
-            "title": "Bit Array Scheduler",
-            "description": "A scheduler that uses a bit array to schedule processes.",
-            "url": "https://github.com/coreygallagher1/Bitarray-Scheduler"
         }
+
     ]
 }

@@ -29,20 +29,24 @@ const About = () => {
                     />
                 </h1>
                 <p> 
-                    I'm a very ambitious backend software engineer looking for a role in the
-                    established tech company with the opportunity to work with the latest 
-                    technolgies on challenging and diverse projects.
+                    I am senior at Marquette University studying computer science and computational mathematics.
+                    I am too build my career around developing new technologies and solving problems, wether that
+                    be through software engineering at an established company or creating new technologies at a startup.
+                    I have had the opportunity to intern at serveral technolgy companies as well as do undergraduate 
+                    reserach at Marquette University.
                 </p>
                 <p>
-                I love software engineering because it allows me to constantly learn and challenge myself.
-                 I enjoy being able to use my creativity and problem-solving skills to build innovative solutions
-                  that can make a positive impact on people's lives. The field is constantly evolving and there
-                   is always something new to learn, which keeps things interesting and exciting. Additionally, 
-                   I find it rewarding to see the results of my hard work come to life in the form of a functional 
-                   and useful piece of software.
+                    Additionally, I am passionate about working on personal projects by applying what I have learned in school
+                    as well as learning new technologies. I love to create something from nothing and see it come to life especially
+                    when it can profoundly impact people's lives in a positive way.
                 </p>
-
+                <p>
+                    Outside of software development, I enjoy playing chess, reading, hiking, and working out. When I am not doing 
+                    any of those things, I am probably watching playing basketball with my frinds or watching movies.
+                </p>
             </div>
+            
+
             
             <div className="stage-cube-cont">
                 <div className='cubespinner'>
